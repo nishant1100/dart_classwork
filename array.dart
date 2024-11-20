@@ -35,3 +35,7 @@ void countEvenNo(List<int> arr) {
 
   print('No of even nos are : $count');
 }
+
+
+
+
