@@ -14,10 +14,10 @@ void main() {
 }
 
 void printArr(List<int> arr) {
-  print('---------Array Values Are----------');
-  for (int i = 0; i < 5; i++) {
-    print(arr[i]);
-  }
+  // print('---------Array Values Are----------');
+  // for (int i = 0; i < 5; i++) {
+  //   print(arr[i]);
+  // }
 
   // =================== OR ====================
   for (int i in arr) {
